@@ -1,4 +1,4 @@
-# inig.github.io
+# enkel-co.github.io
 
 ## Project setup
 ```
